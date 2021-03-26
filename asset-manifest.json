@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/projects/7.recipies-app-react/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/projects/7.recipies-app-react/static/js/main.517c6a35.chunk.js",
+    "main.js.map": "/projects/7.recipies-app-react/static/js/main.517c6a35.chunk.js.map",
+    "runtime-main.js": "/projects/7.recipies-app-react/static/js/runtime-main.a20007cf.js",
+    "runtime-main.js.map": "/projects/7.recipies-app-react/static/js/runtime-main.a20007cf.js.map",
+    "static/js/2.777dfb5c.chunk.js": "/projects/7.recipies-app-react/static/js/2.777dfb5c.chunk.js",
+    "static/js/2.777dfb5c.chunk.js.map": "/projects/7.recipies-app-react/static/js/2.777dfb5c.chunk.js.map",
+    "static/js/3.1926c8ea.chunk.js": "/projects/7.recipies-app-react/static/js/3.1926c8ea.chunk.js",
+    "static/js/3.1926c8ea.chunk.js.map": "/projects/7.recipies-app-react/static/js/3.1926c8ea.chunk.js.map",
+    "index.html": "/projects/7.recipies-app-react/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/projects/7.recipies-app-react/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.777dfb5c.chunk.js.LICENSE.txt": "/projects/7.recipies-app-react/static/js/2.777dfb5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a20007cf.js",
+    "static/js/2.777dfb5c.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.517c6a35.chunk.js"
+  ]
+}
